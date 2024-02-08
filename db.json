@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 100% Atualizado",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Desing"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "Web",
+          "cost": "100",
+          "description": "Desenvolver Site",
+          "id": "26561f16-b16f-4cff-804c-e1869fd22fdd"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Projeto 2 Att",
+      "budget": "1250",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Casamento Taynara e Savio",
+      "budget": "30000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
